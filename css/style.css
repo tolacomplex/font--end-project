@@ -577,14 +577,7 @@ html,body {
   text-shadow: 1px 2px 1px black;
   color: blue;
 }
-/* Page learn more */
-body {
-    background-image: url("../image/background-learn-more.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-}
+/* page learn more */
 .base {
   display: flex;
   flex-direction: row-reverse;
