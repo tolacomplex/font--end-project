@@ -90,6 +90,7 @@ html,body {
   text-transform: capitalize;
 }
 .mark input {
+  margin: 2px;
   border: none;
   height: 15%;
   width: 150%;
